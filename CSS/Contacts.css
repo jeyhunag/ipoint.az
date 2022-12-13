@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.menu {
+    background-color: #F5EBF2;
+    height: 50px;
+
+}
+
+.menu-epoint {
+    color: gray;
+}
+
+.menu-epoint:hover {
+    color: #a90174;
+}
+.container-fluid{
+    background-color:#F5EBF2 ;
+}
+#icon {
+    transform: scale(1.5);
+    color: #e3b5d4;
+}
+
+#icon:hover {
+    color: #a90174;
+}
+
+.box {
+    width: 500px;
+    height: 520px;
+    border-radius: 18px;
+    margin-top: -497px;
+    right: 80px;
+    background-color: white;
+}
+
+.password {
+    width: 400px;
+    height: 50px;
+}
+
+.email {
+    width: 400px;
+    height: 50px;
+    margin-top: -10px;
+}
+
+.input-group {
+    width: 400px;
+    height: 50px;
+}
+
+#btn {
+    background-color: gainsboro;
+}
+
+.inbox {
+    width: 400px;
+    height: 70px;
+}
+
+#button {
+    width: 150px;
+    height: 50px;
+}

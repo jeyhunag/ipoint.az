@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.menu {
+    background-color: #F5EBF2;
+    height: 50px;
+    
+}
+
+.menu-epoint {
+    color: gray;
+}
+
+.menu-epoint:hover {
+    color: #a90174;
+}
+#selection{
+    width: 100%;
+    height: 70px;
+    border-radius: 20px;
+    border-color: #F5EBF2;
+    background-color: #F5EBF2;
+}

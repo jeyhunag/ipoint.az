@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.menu {
+    background-color: #F5EBF2;
+    height: 50px;
+    
+}
+.menu-epoint{
+    color: gray;
+}
+.menu-epoint:hover {
+    color: #a90174;
+}
+#form-input{
+    width: 240px;
+   
+}
+#form-select{
+    width: 240px;
+    
+}
+form{
+    margin-top: -5.5rem;
+}
+.card{
+    width: 250px;
+}
+.card-2{
+    margin-top: 310px;
+}
+.card-3{
+    margin-top: 620px;
+}
+.paginations{
+    margin-top: 650px;left:320px ;
+    
+}
+.page-link{
+    border-color: #F5EBF2;
+    color: black;
+    border-radius: 100px;
+}
+.page-link:hover{
+    color: white;
+    background-color:#a90174 ;
+}
